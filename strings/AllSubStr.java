@@ -1,3 +1,4 @@
+// Generate all possible substrings of a string.
 package strings;
 
 public class AllSubStr {
