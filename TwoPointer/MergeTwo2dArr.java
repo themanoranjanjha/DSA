@@ -7,8 +7,6 @@
 
 package TwoPointer;
 
-
-
 import java.util.*;
 
 public class MergeTwo2dArr {
