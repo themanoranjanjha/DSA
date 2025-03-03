@@ -3,7 +3,7 @@
 // nums1[i] = [idi, vali] indicate that the number with the id idi has a value equal to vali.
 // nums2[i] = [idi, vali] indicate that the number with the id idi has a value equal to vali.
 // Each array contains unique ids and is sorted in ascending order by id.
-// ]Merge the two arrays into one array that is sorted in ascending order by id.
+// Merge the two arrays into one array that is sorted in ascending order by id.
 
 package TwoPointer;
 
