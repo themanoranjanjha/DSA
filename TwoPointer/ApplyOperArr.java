@@ -1,5 +1,5 @@
 package TwoPointer;
-
+// 2200. Find All K-Distant Indices in an Array
 public class ApplyOperArr {
     public static void main(String[] args) {
         int[] arr = {1,2,2,1,1, 0};
