@@ -5,7 +5,7 @@
 // Each array contains unique ids and is sorted in ascending order by id.
 // Merge the two arrays into one array that is sorted in ascending order by id.
 
-package TwoPointer;
+
 
 import java.util.*;
 

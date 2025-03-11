@@ -1,5 +1,4 @@
 // 189. Rotate Array
-package TwoPointer;
 
 public class RotateArr {
     public static void main(String[] args) {

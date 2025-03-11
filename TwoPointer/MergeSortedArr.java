@@ -1,5 +1,5 @@
 // 88. Merge Sorted Array
-package TwoPointer;
+
 
 public class MergeSortedArr {
     public static void main(String[] args) {

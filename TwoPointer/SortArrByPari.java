@@ -1,4 +1,4 @@
-package TwoPointer;
+
 
 public class SortArrByPari {
     public static void main(String[] args) {

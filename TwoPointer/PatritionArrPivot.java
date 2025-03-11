@@ -1,5 +1,5 @@
 // 2161. Partition Array According to Given Pivot
-package TwoPointer;
+
 
 public class PatritionArrPivot {
     public static void main(String[] args) {

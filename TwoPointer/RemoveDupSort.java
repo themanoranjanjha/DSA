@@ -1,4 +1,4 @@
-package TwoPointer;
+
 
 public class RemoveDupSort {
     public static void main(String[] args) {
