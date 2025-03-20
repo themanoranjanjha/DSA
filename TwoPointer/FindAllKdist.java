@@ -1,5 +1,4 @@
-package TwoPointer;
-
+// Find all the elements at k distance from the key element in the array.
 import java.util.ArrayList;
 import java.util.List;
 
