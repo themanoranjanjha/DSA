@@ -16,7 +16,7 @@ public class CheckPrime {
         }
         if (n % i == 0) {
             return 0;
-        }
+        } 
         if (i * i > n) {
             return 1;
         }
