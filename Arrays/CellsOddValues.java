@@ -1,6 +1,8 @@
 /**
  * CellsOddValues
  */
+// 1252. Cells with Odd Values in a Matrix
+
 public class CellsOddValues {
 
     public int oddCells(int n, int m, int[][] indices) {
@@ -29,7 +31,6 @@ public class CellsOddValues {
         CellsOddValues cellsOddValues = new CellsOddValues();
         int[][] indices = {{0,1},{1,1}};
         System.out.println(cellsOddValues.oddCells(2, 3, indices));
-        
     
     }
 }
